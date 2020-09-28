@@ -1,3 +1,5 @@
+require('phaser');
+
 const config = {
 	type: Phaser.AUTO,
 	width: 600,
